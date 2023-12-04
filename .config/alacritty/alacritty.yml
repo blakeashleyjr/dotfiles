@@ -1,0 +1,28 @@
+# Alacritty Configuration File
+
+# Shell
+# Here, you specify the command that starts the shell. 
+# By default, it's usually Bash or Zsh, depending on your system.
+# We'll change it to Fish.
+shell:
+  program: /usr/bin/fish
+  # You can add arguments to the command if needed, like so:
+  # args:
+  #   - --login
+
+# The rest of the configuration file can include settings for things like
+# font, colors, window size, key bindings, etc.
+
+# Example: Setting the font size
+font:
+  size: 11.0
+  family: FiraCode
+# Example: Specifying colors
+colors:
+  primary:
+    background: '0x1d1f21'
+    foreground: '0xc5c8c6'
+
+
+# ... and so on for other configurations
+
