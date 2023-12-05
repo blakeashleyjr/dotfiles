@@ -15,8 +15,8 @@ shell:
 
 # Example: Setting the font size
 font:
-  size: 11.0
-  normal: 
+  size: 12.0
+  normal:
     family: FiraCode
 # Example: Specifying colors
 colors:
